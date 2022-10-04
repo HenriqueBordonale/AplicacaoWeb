@@ -8,7 +8,7 @@
 
 .login {
     display: flex;
-    flex-direction:column;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     position: absolute;
@@ -19,11 +19,24 @@
     margin-left: 35%;
     border-radius: 5px;
     box-shadow: 5px 5px 5px rgb(165, 165, 165);
-    
+
 
 }
 
-#botaoprincipal{
+#botaoprincipal {
+    font-size: 2.5vh;
     margin-top: 4%;
-    width: 300px;
-	}
+    width: 31vh;
+    height: 6vh;
+}
+
+.imagem {
+    width: 18vh;
+    height: 21vh;
+    margin-top: -8vh;
+    margin-left: -3vh;
+}
+
+#textbox{
+    margin-top: 4%;
+}
