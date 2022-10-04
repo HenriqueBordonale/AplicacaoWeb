@@ -1,0 +1,29 @@
+.background {
+    background-image: url("../images/wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    position: relative;
+}
+
+.login {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 70%;
+    width: 30%;
+    background-color: rgb(228, 226, 226);
+    margin-top: 5%;
+    margin-left: 35%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(165, 165, 165);
+    
+
+}
+
+#botaoprincipal{
+    margin-top: 4%;
+    width: 300px;
+	}
